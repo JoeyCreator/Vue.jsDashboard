@@ -1,2 +1,1 @@
-# Vue.jsDashboard
-Created with CodeSandbox
+# vue-dashboard
